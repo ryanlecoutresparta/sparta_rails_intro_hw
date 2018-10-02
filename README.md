@@ -18,6 +18,9 @@
 2. Copy the SSH to clipboard.
 3. In your command line, enter the folder you wish to insert the files.
 4. Type ‘git clone’ followed by pasting the SSH into the command line.
-5. Open the code in your chosen text editor, such as Atom.
-6. Type in 'rails s' in your command line to start the server.
-7. Open it on 'localhost:9292' in your browser.
+5. Type 'gem install rails' in your command line
+6. Open the code in your chosen text editor, such as Atom.
+7. Type in 'rake db:create' in your command line to create the database.
+8. Type in 'rake db:seed' in your command line to create the database.
+9. Type in 'rails s' in your command line to start the server.
+10. Open it on 'localhost:3000' in your browser.
