@@ -4,4 +4,6 @@
 # Examples:
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+Film.create(title: 'The Dark Knight', released: 2008, imdb_rating: 9.0)
+Film.create(title: 'The Prestige', released: 2010, imdb_rating: 8.6)
+Film.create(title: 'Interstellar', released: 2016, imdb_rating: 8.6)
